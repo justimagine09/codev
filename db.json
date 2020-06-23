@@ -3,9 +3,9 @@
     "id": 1,
     "year": 2020,
     "expenses": [
-      {"id": 1, "name": "Food", "value": 1000, "color":" red"},
-      {"id": 2, "name": "Travel", "value": 600, "color": "blue"},
-      {"id": 3, "name": "Hygiene", "value": 1400, "color": "green"}
+      {"id": 1, "name": "Food", "value": 1000, "color":" #de4f4f"},
+      {"id": 2, "name": "Travel", "value": 600, "color": "#6be4ea"},
+      {"id": 3, "name": "Hygiene", "value": 1400, "color": "#6bd35e"}
     ]
   }
 }
