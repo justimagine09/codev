@@ -1,9 +1,9 @@
 {
-    'year': 2018,
-    'month': 'june',
-    'monthlyIncome': [
-      {'name': 'Food', 'netIncome': 120, 'color': '#b7e1b8'},
-      {'name': 'Travel', 'netIncome': 420, 'color': '#e1b7b7'},
-      {'name': 'Hygene', 'netIncome': 300, 'color': '#e1b7b7'},
+    "year": 2018,
+    "month'": 'june',
+    "expenses': [
+      {"name": 'Food', "netIncome": 120, "color": "#b7e1b8"},
+      {"name": 'Travel', "netIncome": 420, "color": "#e1b7b7"},
+      {"name": 'Hygene', "netIncome": 300, "color": "#e1b7b7"},
     ]
   }
