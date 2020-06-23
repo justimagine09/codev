@@ -5,7 +5,7 @@
     "expenses": [
       {"id": 1, "name": "Food", "value": 1000, "color":" red"},
       {"id": 2, "name": "Economy", "value": 1200, "color": "blue"},
-      {"id": 3, "name:" "Hygene", "value": 1400, "color": "green"}
+      {"id": 3, "name": "Hygene", "value": 1400, "color": "green"}
     ]
   }
 }
